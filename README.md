@@ -1,2 +1,2 @@
 # link
-out super-hot-app!!!
+our super-hot-app!!!
